@@ -14,10 +14,10 @@ and the users...
 
 **Manager Script**
 
-## :heavy_exclamation_mark: Requirements
+## Requirements :heavy_exclamation_mark:
 
 * A Linux-based operating system (Ubuntu or Debian) 
-* Recomendamos Debian 9 ou Ubuntu 14.04
+* We recommend Debian 9 or Ubuntu 14.04
 * It is recommended to use a new or formatted distro
 
 ## Installation
